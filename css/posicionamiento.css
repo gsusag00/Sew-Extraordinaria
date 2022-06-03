@@ -1,0 +1,28 @@
+body {
+    width: 100%;
+    margin: 2% auto auto;
+    background-size: 100%;
+    text-align: center;
+}
+
+main {
+    width: 80%;
+    margin: auto 3% auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+}
+
+p {
+    text-align: left;
+}
+
+nav > a {
+    margin-right: 5%;
+    height: auto;
+}
